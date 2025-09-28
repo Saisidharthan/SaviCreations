@@ -1,7 +1,6 @@
 import AboutHero from "@/components/about/about-hero"
 import AboutMe from "@/components/about/about-me"
 import AboutTestimonials from "@/components/about/about-testimonials"
-import PersonalStory from "@/components/about/personal-story"
 import Philosophy from "@/components/about/philosophy"
 import SocialSection from "@/components/about/social-section"
 import Footer from "@/components/footer"
@@ -21,7 +20,6 @@ export default function AboutPage() {
       <Header />
       <main>
         <AboutHero />
-        <PersonalStory />
         <AboutMe />
         <Philosophy />
         <SocialSection />
