@@ -32,33 +32,6 @@ export default function PartyHero() {
           <p className="font-body text-xl md:text-2xl mb-8 text-shadow">
             Best Party Makeup Services for Every Celebration
           </p>
-
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
-            <div className="text-center">
-              <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-2">
-                <span className="font-heading text-2xl">✨</span>
-              </div>
-              <p className="font-body text-sm">Glamorous</p>
-            </div>
-            <div className="text-center">
-              <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-2">
-                <span className="font-heading text-2xl">📸</span>
-              </div>
-              <p className="font-body text-sm">Camera Ready</p>
-            </div>
-            <div className="text-center">
-              <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-2">
-                <span className="font-heading text-2xl">⏰</span>
-              </div>
-              <p className="font-body text-sm">Long Lasting</p>
-            </div>
-            <div className="text-center">
-              <div className="w-16 h-16 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-2">
-                <span className="font-heading text-2xl">🎨</span>
-              </div>
-              <p className="font-body text-sm">Trendy</p>
-            </div>
-          </div>
         </div>
       </div>
     </section>
