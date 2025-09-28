@@ -1,4 +1,4 @@
-import { Clock, Facebook, Instagram, MapPin, Phone } from "lucide-react"
+import { Clock, Instagram, MapPin, Phone } from "lucide-react"
 
 export function ContactInfo() {
   return (
@@ -85,17 +85,6 @@ export function ContactInfo() {
                     <div>
                       <p className="font-medium text-foreground">@sasvicreations</p>
                       <p className="text-sm text-muted-foreground">Latest looks & behind-the-scenes</p>
-                    </div>
-                  </a>
-
-                  <a
-                    href="https://facebook.com/sasvicreations"
-                    className="flex items-center gap-3 p-3 rounded-lg border hover:bg-sage/5 transition-colors"
-                  >
-                    <Facebook className="w-5 h-5 text-sage" />
-                    <div>
-                      <p className="font-medium text-foreground">Sasvi Creations</p>
-                      <p className="text-sm text-muted-foreground">Client reviews & updates</p>
                     </div>
                   </a>
                 </div>

@@ -1,4 +1,4 @@
-import { Calendar, Award, Heart, Sparkles } from "lucide-react"
+import { Calendar, Heart, Sparkles, Star } from "lucide-react"
 
 const timelineEvents = [
   {
@@ -24,10 +24,10 @@ const timelineEvents = [
   },
   {
     year: "Present",
-    icon: Award,
+    icon: Star,
     title: "Established Artist",
     description:
-      "Now recognized as one of the leading makeup artists in the city with 5+ years of experience, winner of bridal makeover competitions, and trusted by celebrities.",
+      "Now recognized as one of the leading makeup artists in the city with 5+ years of experience, excellence in bridal makeovers, and trusted by celebrities.",
   },
 ]
 

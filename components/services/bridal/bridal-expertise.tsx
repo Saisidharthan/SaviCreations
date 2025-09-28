@@ -1,4 +1,4 @@
-import { Clock, Award, Palette, MapPin } from "lucide-react"
+import { Clock, MapPin, Palette, Star } from "lucide-react"
 
 const expertisePoints = [
   {
@@ -7,14 +7,14 @@ const expertisePoints = [
     description: "5+ Years of Professional Experience",
   },
   {
-    icon: Award,
-    title: "Awards",
-    description: "Winner of Bridal Makeover Competition",
+    icon: Star,
+    title: "Excellence",
+    description: "Quality Service & Customer Satisfaction",
   },
   {
     icon: Palette,
     title: "Products",
-    description: "Estee Lauder, Bobbi Brown, Urban Decay, MAC",
+    description: "Kryolan, MAC, Forever, NARS",
   },
   {
     icon: MapPin,

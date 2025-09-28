@@ -1,4 +1,4 @@
-import { Facebook, Instagram } from "lucide-react"
+import { Instagram } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 
@@ -51,13 +51,6 @@ export default function Footer() {
               aria-label="Instagram"
             >
               <Instagram className="w-5 h-5 text-accent-foreground" />
-            </a>
-            <a
-              href="#"
-              className="w-10 h-10 bg-accent rounded-full flex items-center justify-center hover:bg-accent/80 transition-colors"
-              aria-label="Facebook"
-            >
-              <Facebook className="w-5 h-5 text-accent-foreground" />
             </a>
           </div>
 

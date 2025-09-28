@@ -35,8 +35,8 @@ export default function AboutHero() {
               <p className="font-body text-sm">Happy Clients</p>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4 text-center">
-              <h3 className="font-heading text-2xl mb-2">Award</h3>
-              <p className="font-body text-sm">Winner</p>
+              <h3 className="font-heading text-2xl mb-2">50+</h3>
+              <p className="font-body text-sm">Weddings</p>
             </div>
           </div>
         </div>

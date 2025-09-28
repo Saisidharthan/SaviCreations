@@ -16,13 +16,13 @@ export default function HomePage() {
       <Header />
       <main>
         <HeroSection />
+        <AboutBrandSection />
         <ServicesSection />
+        <ImageShowcase />
         <FounderIntro />
         <OccasionSection />
-        <AboutBrandSection />
         <HappyClientsSection />
         <LatestWorkSection />
-        <ImageShowcase />
         <TestimonialsSection />
       </main>
       <Footer />

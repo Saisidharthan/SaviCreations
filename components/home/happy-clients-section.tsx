@@ -14,7 +14,7 @@ const highlights = [
   {
     icon: Star,
     title: "Products Used",
-    description: "All Luxury Products like Estee Lauder, Bobbi Brown, Urban Decay, etc.",
+    description: "All Luxury Products like Kryolan, MAC, Forever, NARS, etc.",
   },
 ]
 

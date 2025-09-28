@@ -1,4 +1,4 @@
-import { Instagram, Facebook, Youtube } from "lucide-react"
+import { Instagram } from "lucide-react"
 
 export default function SocialSection() {
   return (
@@ -12,53 +12,21 @@ export default function SocialSection() {
           <div className="w-24 h-1 bg-accent mx-auto mt-6"></div>
         </div>
 
-        <div className="max-w-4xl mx-auto">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-            <div className="bg-card rounded-xl p-6 border border-border text-center hover-lift transition-all">
-              <div className="w-16 h-16 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Instagram className="w-8 h-8 text-accent" />
+        <div className="max-w-2xl mx-auto">
+          <div className="grid grid-cols-1 gap-8 mb-12">
+            <div className="bg-card rounded-xl p-8 border border-border text-center hover-lift transition-all">
+              <div className="w-20 h-20 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                <Instagram className="w-10 h-10 text-accent" />
               </div>
-              <h3 className="font-heading text-xl text-foreground mb-2">Instagram</h3>
-              <p className="font-body text-muted-foreground text-sm mb-4">
-                Daily inspiration, behind-the-scenes content, and client transformations
+              <h3 className="font-heading text-2xl text-foreground mb-3">Instagram</h3>
+              <p className="font-body text-muted-foreground mb-6">
+                Follow us for daily inspiration, behind-the-scenes content, client transformations, and beauty tips
               </p>
               <a
                 href="#"
-                className="font-body text-accent hover:text-accent/80 transition-colors underline underline-offset-4"
+                className="font-body text-accent hover:text-accent/80 transition-colors underline underline-offset-4 text-lg"
               >
                 @sasvicreations
-              </a>
-            </div>
-
-            <div className="bg-card rounded-xl p-6 border border-border text-center hover-lift transition-all">
-              <div className="w-16 h-16 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Facebook className="w-8 h-8 text-accent" />
-              </div>
-              <h3 className="font-heading text-xl text-foreground mb-2">Facebook</h3>
-              <p className="font-body text-muted-foreground text-sm mb-4">
-                Community updates, event announcements, and client testimonials
-              </p>
-              <a
-                href="#"
-                className="font-body text-accent hover:text-accent/80 transition-colors underline underline-offset-4"
-              >
-                Sasvi Creations
-              </a>
-            </div>
-
-            <div className="bg-card rounded-xl p-6 border border-border text-center hover-lift transition-all">
-              <div className="w-16 h-16 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-4">
-                <Youtube className="w-8 h-8 text-accent" />
-              </div>
-              <h3 className="font-heading text-xl text-foreground mb-2">YouTube</h3>
-              <p className="font-body text-muted-foreground text-sm mb-4">
-                Makeup tutorials, beauty tips, and complete transformation videos
-              </p>
-              <a
-                href="#"
-                className="font-body text-accent hover:text-accent/80 transition-colors underline underline-offset-4"
-              >
-                Sasvi Creations
               </a>
             </div>
           </div>
@@ -71,27 +39,13 @@ export default function SocialSection() {
               confident.
             </p>
 
-            <div className="flex justify-center space-x-4">
+            <div className="flex justify-center">
               <a
                 href="#"
                 className="w-12 h-12 bg-accent rounded-full flex items-center justify-center hover:bg-accent/80 transition-colors"
                 aria-label="Instagram"
               >
                 <Instagram className="w-6 h-6 text-accent-foreground" />
-              </a>
-              <a
-                href="#"
-                className="w-12 h-12 bg-accent rounded-full flex items-center justify-center hover:bg-accent/80 transition-colors"
-                aria-label="Facebook"
-              >
-                <Facebook className="w-6 h-6 text-accent-foreground" />
-              </a>
-              <a
-                href="#"
-                className="w-12 h-12 bg-accent rounded-full flex items-center justify-center hover:bg-accent/80 transition-colors"
-                aria-label="YouTube"
-              >
-                <Youtube className="w-6 h-6 text-accent-foreground" />
               </a>
             </div>
 

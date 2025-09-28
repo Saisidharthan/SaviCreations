@@ -33,8 +33,8 @@ export default function AboutMe() {
                 </p>
 
                 <p>
-                  What sets me apart is my commitment to using only the finest products from luxury brands like Estee
-                  Lauder, Bobbi Brown, and Urban Decay, combined with techniques that I've perfected over years of
+                  What sets me apart is my commitment to using only the finest products from luxury brands like Kryolan,
+                  MAC, Forever, and NARS, combined with techniques that I've perfected over years of
                   experience. Every client receives not just a makeup application, but a complete beauty experience that
                   leaves them feeling empowered and radiant.
                 </p>
@@ -54,8 +54,8 @@ export default function AboutMe() {
                   <p className="font-body text-xs text-muted-foreground">Weddings</p>
                 </div>
                 <div className="text-center p-4 bg-card rounded-lg border border-border">
-                  <h4 className="font-heading text-2xl text-accent mb-1">Award</h4>
-                  <p className="font-body text-xs text-muted-foreground">Winner</p>
+                  <h4 className="font-heading text-2xl text-accent mb-1">25+</h4>
+                  <p className="font-body text-xs text-muted-foreground">Events</p>
                 </div>
               </div>
             </div>

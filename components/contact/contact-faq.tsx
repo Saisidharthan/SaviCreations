@@ -27,7 +27,7 @@ const faqs = [
   {
     question: "What products do you use?",
     answer:
-      "We use premium, long-lasting makeup brands including MAC, Urban Decay, NARS, Huda Beauty, and Charlotte Tilbury. All products are hypoallergenic and suitable for photography. We also carry backup products for touch-ups throughout your event.",
+      "We use premium, long-lasting makeup brands including Kryolan, MAC, Forever, and NARS. All products are hypoallergenic and suitable for photography. We also carry backup products for touch-ups throughout your event.",
   },
   {
     question: "Can you accommodate skin allergies or sensitivities?",

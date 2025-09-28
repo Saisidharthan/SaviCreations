@@ -44,7 +44,7 @@ export default function FounderIntro() {
                   <span className="font-body text-sm text-foreground">Celebrity Stylist</span>
                 </div>
                 <div className="bg-card px-4 py-2 rounded-full border border-border">
-                  <span className="font-body text-sm text-foreground">Award Winner</span>
+                  <span className="font-body text-sm text-foreground">Trendy Styles</span>
                 </div>
               </div>
             </div>
