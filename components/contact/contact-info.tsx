@@ -30,7 +30,7 @@ export function ContactInfo() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Location</h3>
-                  <p className="text-muted-foreground">Koviputhur, Coimbatore, Tamil Nadu, India - 641010</p>
+                  <p className="text-muted-foreground">Kovaipudur, Coimbatore, Tamil Nadu, India - 641010</p>
                   <p className="text-sm text-muted-foreground">Home studio & on-location</p>
                 </div>
               </div>

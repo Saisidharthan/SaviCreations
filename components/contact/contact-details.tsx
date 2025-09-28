@@ -30,7 +30,7 @@ export function ContactDetails() {
                 </div>
                 <div>
                   <h3 className="font-heading text-xl text-foreground mb-2">Studio Address</h3>
-                  <p className="text-muted-foreground text-lg">Koviputhur, Coimbatore, Tamil Nadu, India - 641010</p>
+                  <p className="text-muted-foreground text-lg">Kovaipudur, Coimbatore, Tamil Nadu, India - 641010</p>
                 </div>
               </div>
 
@@ -63,11 +63,11 @@ export function ContactDetails() {
               <div className="p-6 bg-card">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h4 className="font-heading text-lg text-foreground">Koviputhur, Coimbatore, Tamil Nadu, India - 641010</h4>
-                    <p className="text-muted-foreground">Koviputhur, Coimbatore, Tamil Nadu</p>
+                    <h4 className="font-heading text-lg text-foreground">Kovaipudur, Coimbatore, Tamil Nadu, India - 641010</h4>
+                    <p className="text-muted-foreground">Kovaipudur, Coimbatore, Tamil Nadu</p>
                   </div>
                   <a
-                    href="https://maps.google.com/?q=Koviputhur,Coimbatore,Tamil+Nadu+641010"
+                    href="https://maps.google.com/?q=Kovaipudur,Coimbatore,Tamil+Nadu+641010"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-accent hover:text-accent/80 font-medium"

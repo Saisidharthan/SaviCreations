@@ -20,7 +20,7 @@ export default function BridalCTA() {
                   <div>
                     <h4 className="font-body font-semibold text-foreground">Address</h4>
                     <p className="font-body text-muted-foreground">
-                      Koviputhur, Coimbatore<br />
+                      Kovaipudur, Coimbatore<br />
                       Tamil Nadu, India - 641010
                     </p>
                   </div>

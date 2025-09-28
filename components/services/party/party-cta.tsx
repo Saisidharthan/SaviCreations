@@ -17,7 +17,7 @@ export default function PartyCTA() {
                 <div>
                   <h4 className="font-body font-medium text-foreground mb-2">Address</h4>
                   <p className="font-body text-muted-foreground">
-                    Koviputhur, Coimbatore
+                    Kovaipudur, Coimbatore
                     <br />
                     Tamil Nadu, India - 641010
                   </p>
