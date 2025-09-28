@@ -1,10 +1,10 @@
 "use client"
 
-import { useState } from "react"
-import Link from "next/link"
-import Image from "next/image"
-import { Menu, X, ChevronDown } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { ChevronDown, Menu, X } from "lucide-react"
+import Image from "next/image"
+import Link from "next/link"
+import { useState } from "react"
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -75,7 +75,7 @@ export default function Header() {
           {/* CTA Button */}
           <div className="hidden lg:block">
             <Button asChild className="bg-primary hover:bg-primary/90 text-primary-foreground">
-              <Link href="/contact">Book Appointment</Link>
+              <Link href="https://wa.me/917708032077?text=Hi%20Sasvi%20Creations!%20I'm%20interested%20in%20booking%20a%20makeup%20appointment.%20Could%20you%20please%20share%20more%20details%20about%20your%20services%20and%20availability?" target="_blank" rel="noopener noreferrer">Book Appointment</Link>
             </Button>
           </div>
 
@@ -125,7 +125,7 @@ export default function Header() {
                 Contact
               </Link>
               <Button asChild className="bg-primary hover:bg-primary/90 text-primary-foreground w-fit">
-                <Link href="/contact" onClick={() => setIsMenuOpen(false)}>
+                <Link href="https://wa.me/917708032077?text=Hi%20Sasvi%20Creations!%20I'm%20interested%20in%20booking%20a%20makeup%20appointment.%20Could%20you%20please%20share%20more%20details%20about%20your%20services%20and%20availability?" target="_blank" rel="noopener noreferrer" onClick={() => setIsMenuOpen(false)}>
                   Book Appointment
                 </Link>
               </Button>
